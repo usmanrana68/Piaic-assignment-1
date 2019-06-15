@@ -1,4 +1,3 @@
-# piaic-assignment-1
 Name: Usman Rana
 Roll Number: AIC033170
 Teacher Name: Noman Islam
